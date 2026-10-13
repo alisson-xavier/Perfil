@@ -1,4 +1,0 @@
-- Olá, sou Álisson Xavier, tenho 25 anos e curso Bacharelado em Ciência da Computação na UFRPE
-- Atualmente estou aprendendo Java
-- Tenho interesse em aprender mais sobre Back-end
-- Meus hobbies são ler, ouvir música e fazer pilates 
